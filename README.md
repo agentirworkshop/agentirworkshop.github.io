@@ -1,5 +1,3 @@
-# GFlowNets Workshop 2023
-
 ---
 
 &nbsp;
