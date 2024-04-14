@@ -5,8 +5,12 @@ permalink: /about
 subtitle:
 nav: true
 ---
-
 # AgentIR: 1st Workshop on Agent-based Information Retrieval
+
+<div>
+<img src="assets/img/logo.jpg" width="30%" style="margin-left:35%; margin-right:30%">
+</div>
+---
 
 ## Introduction
 Welcome to AgentIR: 1st Workshop on Agent-based Information Retrieval!
@@ -21,13 +25,32 @@ as a continuation from one of the most successful IR workshops, DRL4IR. It provi
 In the last four years, DRL4IR organized at SIGIR'20/21/22 and CIKM'23 was one of the most successful workshops and attracted over 200 workshop attendees each year. 
 In this year, we will pay more attention to fundamental research topics and recent application advances on agent-based IR, with an expectation of over 300 workshop participants.
 
+## Call for Papers
+We invite submissions related to AgentIR, including (but not limited to):
+* Off-policy or offline RL in IR scenario
+* Formulating ranking as a decision-making task
+* Simulation and Evaluation
+* DRL for Industrial IRs
+* LLM-based IRs
+
+## Submission Instructions
+All submissions (.pdf format) must be written in English and use the latest template of ACM SIGIR 2024 available at <a href="http://www.acm.org/publications/proceedings-template">http://www.acm.org/publications/proceedings-template</a>. The concepts and keywords are required. Submissions can be of varying length from 4 to 8 pages. References do not count against the page limit. All submissions must be original and not simultaneously submitted to another journal or conference. All submissions will be double-blind peer reviewed by the program committee and judged by their relevance to the workshop, scientific novelty, and technical quality. Please note that at least one of the authors of each accepted paper must register for the workshop and present the paper either remotely or on location (strongly preferred). We encourage but do not require authors to release any code and/or datasets associated with their paper.
+
+## Important Dates
+
+| Time zone               &nbsp;&nbsp;| Anywhere on Earth (AoE)    |
+| Acceptance notification &nbsp;&nbsp;| June 15, 2024              |
+| Submission deadline     &nbsp;&nbsp;| May 15, 2024               |
+|DRL4IR workshop          &nbsp;&nbsp;| July 18, 2024               |
+
 ## Attendance
-- When: [TBD]
+- When: July 18, 2024
 - Where: 
   - In-person participation: The workshop will be an in-person event and to be held at [TBD].
   - Online perticipation: You can also join the workshop virtually at [TBD].
 
 ## Invited Speakers
+[TBD]
 
 ## Organizers
 <div class="row row-cols-2 projects pt-3 pb-3">
@@ -43,6 +66,6 @@ In this year, we will pay more attention to fundamental research topics and rece
   </div>
 
 ## Contact
-If you have any questions, please contact us at [TBD].
+If you have any questions, please contact us at cqpcurry@gmail.com.
 
 
