@@ -41,7 +41,7 @@ All submissions (.pdf format) must be written in English and use the latest temp
 | Time zone               &nbsp;&nbsp;| Anywhere on Earth (AoE)    |
 | Acceptance notification &nbsp;&nbsp;| June 15, 2024              |
 | Submission deadline     &nbsp;&nbsp;| May 15, 2024               |
-|DRL4IR workshop          &nbsp;&nbsp;| July 18, 2024               |
+| AgentIR workshop          &nbsp;&nbsp;| July 18, 2024               |
 
 ## Attendance
 - When: July 18, 2024
