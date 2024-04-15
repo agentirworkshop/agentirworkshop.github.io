@@ -36,6 +36,8 @@ We invite submissions related to AgentIR, including (but not limited to):
 ## Submission Instructions
 All submissions (.pdf format) must be written in English and use the latest template of ACM SIGIR 2024 available at <a href="http://www.acm.org/publications/proceedings-template">http://www.acm.org/publications/proceedings-template</a>. The concepts and keywords are required. Submissions can be of varying length from 4 to 8 pages. References do not count against the page limit. All submissions must be original and not simultaneously submitted to another journal or conference. All submissions will be double-blind peer reviewed by the program committee and judged by their relevance to the workshop, scientific novelty, and technical quality. Please note that at least one of the authors of each accepted paper must register for the workshop and present the paper either remotely or on location (strongly preferred). We encourage but do not require authors to release any code and/or datasets associated with their paper.
 
+Submission website: <a href="https://easychair.org/my/conference?conf=agentir2024">https://easychair.org/my/conference?conf=agentir2024</a>
+
 ## Important Dates
 
 | Time zone               &nbsp;&nbsp;| Anywhere on Earth (AoE)    |
