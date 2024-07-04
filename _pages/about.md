@@ -25,12 +25,12 @@ AgentIR provides a venue for both academia researchers and industry practitioner
 - When: July 18, 2024
 - Where: 
   - In-person participation: The workshop will be an in-person event and to be held in room Ohio in the Capital Hilton Hotel, Washington D.C., US.
-  - Online perticipation: You can also join the workshop virtually at [Zoom](https://us05web.zoom.us/j/84777550595?pwd=qiVV8OgpMdCfGe8NfD4FgtrHTXtqx8.1).
+  - Online participation: You can also join the workshop virtually at [Zoom](TBD).
 
 ## Invited Speakers
 <div class="row row-cols-2 projects pt-3 pb-3">
   {% include people_horizontal.html name="Julian McAuley" affiliation="UC San Diego" url="https://cseweb.ucsd.edu/~jmcauley/" img="assets/img/jm.jpg" %}
-  {% include people_horizontal.html name="Yongfeng Zhang" affiliation="Rutgers University" url="https://https://www.yongfeng.me/" img="assets/img/yz.jpg" %}
+  {% include people_horizontal.html name="Yongfeng Zhang" affiliation="Rutgers University" url="https://www.yongfeng.me/" img="assets/img/yz.jpg" %}
   {% include people_horizontal.html name="Song Zuo" affiliation="Google" url="https://sites.google.com/view/songzuo" img="assets/img/sz.jpg" %}
   </div>
 
